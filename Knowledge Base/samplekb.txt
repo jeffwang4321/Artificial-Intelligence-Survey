@@ -1,0 +1,54 @@
+wood <-- tree
+
+sticks <-- tree
+
+leaf <-- tree
+
+water <-- river
+
+stones <-- river
+
+rope <-- shoe
+
+battery <-- cellphone
+
+metal <-- cellphone
+
+wire <-- cellphone
+
+hook <-- wire
+
+
+
+spear <-- wood & rope & metal
+
+rabbit <-- spear & hunting
+
+fishing_rod <-- wood & rope & hook
+
+fish <-- fishing_rod & river
+
+compass <-- leaf & wire & water
+
+
+
+fire <-- battery 
+
+fire <-- sticks & stones & rope
+
+food <-- fire & fish & sticks
+
+food <-- fire & rabbit & sticks
+
+
+
+healthly <-- food & water 
+
+
+
+
+
+
+
+
+
