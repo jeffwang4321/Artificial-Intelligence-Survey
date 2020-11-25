@@ -25,3 +25,10 @@
 - End game result
 
 ![](img/end.JPG)
+
+
+## How to Test
+
+```
+$ python3 python3 a5.py
+```
