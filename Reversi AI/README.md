@@ -13,12 +13,15 @@
 ## Demo
 
 - Adjust game settings
+
 ![](img/settings.JPG)
 
 
 - User input a move
+
 ![](img/playermove.JPG)
 
 
 - End game result
+
 ![](img/end.JPG)
