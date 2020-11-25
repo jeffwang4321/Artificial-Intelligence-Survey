@@ -10,7 +10,7 @@
 - Input options: User input, AI using Pure Monte-Carlo Tree Search and AI using Monte-Carlo Tree Search and best move heuristics
 - Users can select which piece will move first
 
-##Demo
+## Demo
 
 - Adjust game settings
 ![](img/settings.JPG)
