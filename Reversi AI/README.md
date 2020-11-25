@@ -30,5 +30,5 @@
 ## How to Test
 
 ```
-$ python3 python3 reversi.py
+$ python3 reversi.py
 ```
